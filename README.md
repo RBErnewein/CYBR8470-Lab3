@@ -60,37 +60,49 @@ Push to repository
 Published Beanstalk  
 ![](./images/11.Elastic_Beanstalk.png)
 
+Cleanup  
 ![](./images/12.Terminate_environment.png)
 
+
+### Multi-Container Environments
+
+Clone tree  
 ![](./images/13.FoodTruck_tree.png)
 
+Docker search  
 ![](./images/14.docker_search.png)
 
+Container logs  
 ![](./images/15.Container_logs.png)
 
+
+Curl error  
 ![](./images/16.curl_error.png)
 
+Curl response  
 ![](./images/17.curl_memory.png)
 
+Python script  
 ![](./images/18.Dockerfile.png)
 
+Timeout  
 ![](./images/19.rebuild_username.png)
 
+Bash response  
 ![](./images/20.inspect_bridge.png)
 
+Create bridge network  
 ![](./images/21.new_network.png)
 
-![](./images/22.foodtruck_network.png)
-
+I had an intermittent error which required me to run docker-compose up -d twice. The foodtruck_web would time out and exit before es was fully up.  
 ![](./images/23.compose_up.png)
 
+Verified containers on network  
 ![](./images/24.name_resolution.png)
 
-![](./images/25.relaunch.png)
-
+gpg install and key generation  
 ![](./images/26.gpg_ecs.png)
 
-![](./images/27.EC2_Auth_Fail.png)
 
 ### AWS Elastic Container Service
 
