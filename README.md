@@ -21,19 +21,19 @@ Clone repository: http://github.com/prakhar1989/docker-curriculum
 
 ### Install Docker-CE
 Pull Busybox
-![](./images/1-busybox.png)
+![](./images/busybox.png)
 
 Busybox shell commands
-![](./images/2-bb_shell.png)
+![](./images/bb_shell.png)
 
 Docker run
-![](./images/3-end_docker_run.png)
+![](./images/end_docker_run.png)
 
 Remove containers
-![](./images/4-remove_containers.png)
+![](./images/remove_containers.png)
 
 Pull Static-Site
-![](./images/5-pull_static_site.png)
+![](./images/pull_static_site.png)
 
 ### AWS Elastic Container Service
 
