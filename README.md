@@ -40,8 +40,8 @@ Pull Static-Site
 
 I was unable to complete the final step. Permission issues with the guest account prevented key generation.
 
-![](./images/IAM_error.png)
+![](./images/28.IAM_error.png)
 
-![](./images/IAM_error2.png)
+![](./images/29.IAM_error2.png)
 
-![](./images/IAM_error3.png)
+![](./images/30.IAM_error3.png)
