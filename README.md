@@ -20,20 +20,21 @@ Create AWS & Docker Hub Accounts
 Clone repository: http://github.com/prakhar1989/docker-curriculum
 
 ### Install Docker-CE
-Pull Busybox
-![](./images/busybox.png)
 
-Busybox shell commands
-![](./images/bb_shell.png)
+Pull Busybox  
+![](./images/1.busybox.png)
 
-Docker run
-![](./images/end_docker_run.png)
+Busybox shell commands  
+![](./images/2.bb_shell.png)
 
-Remove containers
-![](./images/remove_containers.png)
+Docker run  
+![](./images/3.end_docker_run.png)
 
-Pull Static-Site
-![](./images/pull_static_site.png)
+Remove containers  
+![](./images/4.remove_containers.png)
+
+Pull Static-Site  
+![](./images/5.pull_static_site.png)
 
 ### AWS Elastic Container Service
 
