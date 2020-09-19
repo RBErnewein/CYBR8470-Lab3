@@ -20,27 +20,27 @@ Create AWS & Docker Hub Accounts
 Clone repository: http://github.com/prakhar1989/docker-curriculum
 
 ### Install Docker-CE
-
-![Pull Busybox](./images/1.busybox.png)
+Pull Busybox
+![](./images/1-busybox.png)
 
 Busybox shell commands
-![](./images/2.bb_shell.png)
+![](./images/2-bb_shell.png)
 
 Docker run
-![Docker run](./images/3.end_docker_run.png)
+![](./images/3-end_docker_run.png)
 
+Remove containers
+![](./images/4-remove_containers.png)
 
-![Remove containers](./images/4.remove_containers.png)
-
-
-![Pull Static-Site](./images/5.pull_static_site.png)
+Pull Static-Site
+![](./images/5-pull_static_site.png)
 
 ### AWS Elastic Container Service
 
-I was unable to complete this step due to permission issues with key generation.
+I was unable to complete the final step. Permission issues with the guest account prevented key generation.
 
-![](./images/28.IAM_error.png)
+![](./images/IAM_error.png)
 
-![](./images/29.IAM_error2.png)
+![](./images/IAM_error2.png)
 
-![](./images/30.IAM_error3.png)
+![](./images/IAM_error3.png)
