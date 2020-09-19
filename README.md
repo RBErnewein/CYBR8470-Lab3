@@ -60,7 +60,37 @@ Push to repository
 Published Beanstalk  
 ![](./images/11.Elastic_Beanstalk.png)
 
+![](./images/12.Terminate_environment.png)
 
+![](./images/13.FoodTruck_tree.png)
+
+![](./images/14.docker_search.png)
+
+![](./images/15.Container_logs.png)
+
+![](./images/16.curl_error.png)
+
+![](./images/17.curl_memory.png)
+
+![](./images/18.Dockerfile.png)
+
+![](./images/19.rebuild_username.png)
+
+![](./images/20.inspect_bridge.png)
+
+![](./images/21.new_network.png)
+
+![](./images/22.foodtruck_network.png)
+
+![](./images/23.compose_up.png)
+
+![](./images/24.name_resolution.png)
+
+![](./images/25.relaunch.png)
+
+![](./images/26.gpg_ecs.png)
+
+![](./images/27.EC2_Auth_Fail.png)
 
 ### AWS Elastic Container Service
 
