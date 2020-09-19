@@ -41,13 +41,25 @@ Pull Static-Site
 Static Published Locally  
 ![](./images/6.static_published.png)
 
-### Docker Images
+### Dockerfile
 
-Dockerfile  
-![](./images/7.static_published.png)
+Python script  
+![](./images/7.Dockerfile.png)
 
-Docker Build  
+Docker build  
 ![](./images/8.Docker_build.png)
+
+First build: Catnip  
+![](./images/9.First_image.png)
+
+### AWS Beanstalk
+
+Push to repository  
+![](./images/10.Docker_push.png)
+
+Published Beanstalk  
+![](./images/11.Elastic_Beanstalk.png)
+
 
 
 ### AWS Elastic Container Service
