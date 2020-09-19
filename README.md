@@ -6,12 +6,12 @@ Student:   Robert Ernewein
 
 ### VM Setup
 
-Platform: ASUS X555D
-Host OS: Windows 10 Home (Build 1903)
+Platform: ASUS X555D  
+Host OS: Windows 10 Home (Build 1903)  
 No AMD-V/RVI support
 
-Host VM: VMWare Workstation Pro (v15.5.0)
-Emulating AMD-V/RVI
+Host VM: VMWare Workstation Pro (v15.5.0)  
+Emulating AMD-V/RVI  
 VM OS: Ubuntu 20 LTS
 
 ### Lab Prerequisites
@@ -33,8 +33,22 @@ Docker run
 Remove containers  
 ![](./images/4.remove_containers.png)
 
+### Static Sites
+
 Pull Static-Site  
 ![](./images/5.pull_static_site.png)
+
+Static Published Locally  
+![](./images/6.static_published.png)
+
+### Docker Images
+
+Dockerfile  
+![](./images/7.static_published.png)
+
+Docker Build  
+![](./images/8.Docker_build.png)
+
 
 ### AWS Elastic Container Service
 
