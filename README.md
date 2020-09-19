@@ -85,7 +85,7 @@ Curl response
 Python script  
 ![](./images/18.Dockerfile.png)
 
-Timeout  
+Response timeout  
 ![](./images/19.rebuild_username.png)
 
 Bash response  
